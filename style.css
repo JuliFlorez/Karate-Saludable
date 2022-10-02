@@ -38,7 +38,7 @@ h1 {
     color: rgb(234, 255, 184);
     padding-top: 3%;
     font-family: Gang of Three;
-    margin-left: 20%;
+    margin-left: 17%;
 }
 
 header nav ul {
@@ -181,6 +181,7 @@ footer p {
         padding-top: 3%;
         font-family: Gang of Three;
         font-size: 20px;
+        margin-left: 25%;
     }
 
     header nav ul {
@@ -282,7 +283,7 @@ footer p {
     footer nav ul{
         display: flex;
         text-align: center;
-        margin-left: 20%;
+        margin-left: 15%;
         flex-direction: row;
         font-size: 20px;
         list-style: none;
@@ -463,7 +464,7 @@ footer p {
         flex-direction: row;
         font-size: 20px;
         list-style: none;
-        margin-left: 5%;
+        margin-left: 1%;
 
     }
     footer p {
